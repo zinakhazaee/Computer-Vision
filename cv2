@@ -1,0 +1,3 @@
+OpenCV-Python is a library of Python bindings designed to solve computer vision problems.
+cv2.imread() method loads an image from the specified file.
+If the image cannot be read (because of the missing file, improper permissions, or unsupported or invalid format) then this method returns an empty matrix.
